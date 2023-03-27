@@ -1,6 +1,6 @@
 # Materiali del corso FormezPA sulla qualità dei servizi digitali (marzo-aprile 2023)
 
-[!](https://user-images.githubusercontent.com/42996217/227970790-7a965203-cf82-4096-9a74-5242ca6ec0ba.png)
+![](https://user-images.githubusercontent.com/42996217/227970790-7a965203-cf82-4096-9a74-5242ca6ec0ba.png)
 
 ## Qualità dei servizi digitali
 
